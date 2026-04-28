@@ -8,11 +8,10 @@ This is a Java GUI application that allows users to:
 
 ## How to Run
 
-1. Open the project in an IDE (Eclipse)
-2. Make sure all files in the `src` folder are included
-3. Run the main class:
-
-driver.MainGUI
+- Open the project in your IDE. (Preferably Eclipse)
+- Ensure the src folder is configured as the source root.
+- Add lib/LGoodDatePicker.jar to the project build path.
+- Run the main class: driver.MainGUI
 
 ## Notes
 - The program uses:
